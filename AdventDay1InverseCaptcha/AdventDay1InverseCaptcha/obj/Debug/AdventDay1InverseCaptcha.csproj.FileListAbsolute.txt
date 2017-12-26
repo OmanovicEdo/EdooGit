@@ -1,6 +1,0 @@
-C:\Users\EdoO\Documents\GitHub\EdooGit\AdventDay1InverseCaptcha\AdventDay1InverseCaptcha\obj\Debug\AdventDay1InverseCaptcha.csproj.CoreCompileInputs.cache
-C:\Users\EdoO\Documents\GitHub\EdooGit\AdventDay1InverseCaptcha\AdventDay1InverseCaptcha\bin\Debug\AdventDay1InverseCaptcha.exe.config
-C:\Users\EdoO\Documents\GitHub\EdooGit\AdventDay1InverseCaptcha\AdventDay1InverseCaptcha\bin\Debug\AdventDay1InverseCaptcha.exe
-C:\Users\EdoO\Documents\GitHub\EdooGit\AdventDay1InverseCaptcha\AdventDay1InverseCaptcha\bin\Debug\AdventDay1InverseCaptcha.pdb
-C:\Users\EdoO\Documents\GitHub\EdooGit\AdventDay1InverseCaptcha\AdventDay1InverseCaptcha\obj\Debug\AdventDay1InverseCaptcha.exe
-C:\Users\EdoO\Documents\GitHub\EdooGit\AdventDay1InverseCaptcha\AdventDay1InverseCaptcha\obj\Debug\AdventDay1InverseCaptcha.pdb
