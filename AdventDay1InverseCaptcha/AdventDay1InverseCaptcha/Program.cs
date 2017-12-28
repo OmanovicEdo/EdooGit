@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 using System.IO;
 
@@ -11,14 +7,17 @@ namespace AdventDay1InverseCaptcha
     class Program
     {
         static void Main(string[] args)
-        {
-            InverseCaptcha ic = new InverseCaptcha();
+        {            
+            var nd = new NextDigitSelectionAlgorithm();
+            var hd = new HalfwayDigitSelectionAlgorithm();
 
             string puzzleInput = File.ReadAllText(@"..\..\..\PuzzleInput.txt");
 
-            int sum = ic.CalcCaptchaSum(puzzleInput);
-
-            Console.WriteLine(sum);
+            Console.WriteLine("Next digit algorithm");
+            Console.WriteLine(nd.CalcCaptchaSum(puzzleInput));            
+            Console.WriteLine("--------------------------------");
+            Console.WriteLine("Halfway digit algorithm");
+            Console.WriteLine(hd.CalcCaptchaSum(puzzleInput));
             Console.ReadLine();
         }
     }
