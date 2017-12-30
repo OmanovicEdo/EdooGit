@@ -1,7 +1,0 @@
-C:\Users\EdoO\Documents\GitHub\EdooGit\AdventDay2_CorruptionChecksum\AdventDay2_CorruptionChecksum\bin\Debug\AdventDay2_CorruptionChecksum.exe.config
-C:\Users\EdoO\Documents\GitHub\EdooGit\AdventDay2_CorruptionChecksum\AdventDay2_CorruptionChecksum\bin\Debug\AdventDay2_CorruptionChecksum.exe
-C:\Users\EdoO\Documents\GitHub\EdooGit\AdventDay2_CorruptionChecksum\AdventDay2_CorruptionChecksum\bin\Debug\AdventDay2_CorruptionChecksum.pdb
-C:\Users\EdoO\Documents\GitHub\EdooGit\AdventDay2_CorruptionChecksum\AdventDay2_CorruptionChecksum\obj\Debug\AdventDay2_CorruptionChecksum.csproj.CoreCompileInputs.cache
-C:\Users\EdoO\Documents\GitHub\EdooGit\AdventDay2_CorruptionChecksum\AdventDay2_CorruptionChecksum\obj\Debug\AdventDay2_CorruptionChecksum.exe
-C:\Users\EdoO\Documents\GitHub\EdooGit\AdventDay2_CorruptionChecksum\AdventDay2_CorruptionChecksum\obj\Debug\AdventDay2_CorruptionChecksum.pdb
-C:\Users\EdoO\Documents\GitHub\EdooGit\AdventDay2_CorruptionChecksum\AdventDay2_CorruptionChecksum\obj\Debug\AdventDay2_CorruptionChecksum.csprojResolveAssemblyReference.cache
