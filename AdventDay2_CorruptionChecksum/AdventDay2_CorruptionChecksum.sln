@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventDay2_CorruptionChecksum", "AdventDay2_CorruptionChecksum\AdventDay2_CorruptionChecksum.csproj", "{3FEDA368-AC38-439C-939A-36FD152852BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{96B0392A-18E0-4B76-901F-33AAD074C90A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FEDA368-AC38-439C-939A-36FD152852BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FEDA368-AC38-439C-939A-36FD152852BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FEDA368-AC38-439C-939A-36FD152852BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FEDA368-AC38-439C-939A-36FD152852BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96B0392A-18E0-4B76-901F-33AAD074C90A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96B0392A-18E0-4B76-901F-33AAD074C90A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96B0392A-18E0-4B76-901F-33AAD074C90A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96B0392A-18E0-4B76-901F-33AAD074C90A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02A8F772-CDC8-48AE-B055-92EDB973DF41}
+	EndGlobalSection
+EndGlobal
