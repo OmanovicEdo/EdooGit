@@ -64,7 +64,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="InverseCaptcha.cs" />
+    <Compile Include="HalfwayDigitSelectionAlgorithm.cs" />
+    <Compile Include="NextDigitSelectionAlgorithm.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -6,4 +6,9 @@ packages/*
 .vs/*
 /AdventDay1InverseCaptcha/packages
 /AdventDay1InverseCaptcha/.vs/AdventDay1InverseCaptcha/v15/Server/sqlite3
+/AdventDay1InverseCaptcha/.vs/*
 *.suo
+
+/AdventDay2_CorruptionChecksum/packages
+/AdventDay2_CorruptionChecksum/.vs/AdventDay1InverseCaptcha/v15/Server/sqlite3
+/AdventDay2_CorruptionChecksum/.vs/*
