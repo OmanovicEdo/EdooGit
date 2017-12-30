@@ -12,3 +12,7 @@ packages/*
 /AdventDay2_CorruptionChecksum/packages
 /AdventDay2_CorruptionChecksum/.vs/AdventDay1InverseCaptcha/v15/Server/sqlite3
 /AdventDay2_CorruptionChecksum/.vs/*
+/AdventDay1InverseCaptcha/Tests/bin/x86/Debug
+/AdventDay1InverseCaptcha/Tests/obj/x86/Debug
+/AdventDay1InverseCaptcha/AdventDay1InverseCaptcha/obj/x86/Debug
+/AdventDay1InverseCaptcha/AdventDay1InverseCaptcha/bin/x86/Debug
