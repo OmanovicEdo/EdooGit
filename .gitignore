@@ -1,18 +1,27 @@
-Debug/*
-Release/*
-bin/*
-obj/*
-packages/*
-.vs/*
-/AdventDay1InverseCaptcha/packages
-/AdventDay1InverseCaptcha/.vs/AdventDay1InverseCaptcha/v15/Server/sqlite3
-/AdventDay1InverseCaptcha/.vs/*
+# User-specific files
 *.suo
+*.user
+*.userosscache
+*.sln.docstates
 
-/AdventDay2_CorruptionChecksum/packages
-/AdventDay2_CorruptionChecksum/.vs/AdventDay1InverseCaptcha/v15/Server/sqlite3
-/AdventDay2_CorruptionChecksum/.vs/*
-/AdventDay1InverseCaptcha/Tests/bin/x86/Debug
-/AdventDay1InverseCaptcha/Tests/obj/x86/Debug
-/AdventDay1InverseCaptcha/AdventDay1InverseCaptcha/obj/x86/Debug
-/AdventDay1InverseCaptcha/AdventDay1InverseCaptcha/bin/x86/Debug
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+#NuGet packages
+packages/*
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+
+
